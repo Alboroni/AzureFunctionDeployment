@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "YourAppName"
+            "value": "SplunkFunc"
         },
         "repoURL": {
-            "value": "https://github.com/YourName/yourRepo.git"
+            "value": "https://github.com/Alboroni/AzureFunctionforSplunkVS.git"
         },
         "branch": {
-            "value": "yourBranch"
+            "value": "Nationwide"
         },
         "appSetting1": {
             "value": "someSettingValue"
